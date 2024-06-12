@@ -2,7 +2,7 @@
 
 Meu nome é Maria Camargo
 
-- Estou estudando o alura
+- Estou estudando o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo no javascrpit
   Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
